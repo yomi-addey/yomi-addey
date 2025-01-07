@@ -1,5 +1,6 @@
 ### Hi, I'm Yomi! 👋
-![image](https://github.com/user-attachments/assets/6a9a96e5-4a95-4da9-8255-5ad76dcdf7ad)
+
+<img src="https://github.com/user-attachments/assets/6a9a96e5-4a95-4da9-8255-5ad76dcdf7ad" alt="Character of Me" width="200" height="200">
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ayomide-addey-539a032a2/">
