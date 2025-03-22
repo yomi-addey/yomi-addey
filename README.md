@@ -8,7 +8,7 @@
   </a>
 </div>
 
-- 🔭 I’m currently working on an electronic Scrabble board that calculates players scores itself!
+- 🔭 I'm currently working on an app the reads text from a recipt and allows your friends to split the bill amongst themselves!
 - 📫 How to reach me: addey.a@northeastern.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My all-time favorite cake is red velvet!
